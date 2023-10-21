@@ -157,6 +157,7 @@ nav a:hover{
 #about-us{
     background: url(images/about.jpg) no-repeat center;
     background-size: cover;
+    min-height: 750px;
     color: white;
     padding: 35.856px;
 }
